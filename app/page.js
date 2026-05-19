@@ -19,7 +19,7 @@ export default function LandingPage() {
   return (
     <div>
       <section className="relative min-h-[86vh] overflow-hidden rounded-lg border border-cyan-signal/10 bg-void/70 scanline">
-        <OrbitalEarth className="absolute inset-0 h-full w-full opacity-90" density="dense" objects={objects} />
+        <OrbitalEarth className="absolute inset-0 h-full w-full opacity-90" controls={false} density="dense" objects={objects} />
         <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(5,9,20,0.96),rgba(5,9,20,0.66)_42%,rgba(5,9,20,0.20))]" />
         <div className="relative z-10 flex min-h-[86vh] max-w-7xl flex-col justify-center px-6 py-16 sm:px-10 lg:px-14">
           <p className="font-mono text-xs uppercase tracking-[0.28em] text-cyan-signal">Orbital risk intelligence system</p>
