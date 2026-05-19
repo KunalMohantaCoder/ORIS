@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CelesTrak General Perturbations Catalog",
+    "organization": "CelesTrak",
+    "url": "https://celestrak.org/NORAD/elements/",
+    "note": "Public orbital element catalog used by the default free data adapters."
+  },
+  {
+    "title": "NASA Orbital Debris Program Office",
+    "organization": "NASA",
+    "url": "https://orbitaldebris.jsc.nasa.gov/",
+    "note": "Public background material on orbital debris risks and mitigation."
+  },
+  {
+    "title": "ESA Space Debris Office",
+    "organization": "European Space Agency",
+    "url": "https://www.esa.int/Space_Safety/Space_Debris",
+    "note": "Public educational and technical material on space debris environment monitoring."
+  },
+  {
+    "title": "Inter-Agency Space Debris Coordination Committee Guidelines",
+    "organization": "IADC",
+    "url": "https://www.iadc-home.org/documents_public/view/id/82",
+    "note": "Reference guidance for mitigation and long-term sustainability modeling."
+  }
+]

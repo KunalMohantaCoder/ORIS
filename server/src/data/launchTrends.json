@@ -1,0 +1,13 @@
+[
+  {"year":2015,"launches":87,"catalogedObjects":17200,"debrisObjects":13100,"mitigationCompliance":42},
+  {"year":2016,"launches":86,"catalogedObjects":17850,"debrisObjects":13640,"mitigationCompliance":45},
+  {"year":2017,"launches":91,"catalogedObjects":18670,"debrisObjects":14220,"mitigationCompliance":49},
+  {"year":2018,"launches":114,"catalogedObjects":19600,"debrisObjects":14880,"mitigationCompliance":52},
+  {"year":2019,"launches":102,"catalogedObjects":20550,"debrisObjects":15410,"mitigationCompliance":55},
+  {"year":2020,"launches":114,"catalogedObjects":21840,"debrisObjects":16060,"mitigationCompliance":59},
+  {"year":2021,"launches":145,"catalogedObjects":23680,"debrisObjects":16890,"mitigationCompliance":61},
+  {"year":2022,"launches":186,"catalogedObjects":25880,"debrisObjects":17840,"mitigationCompliance":64},
+  {"year":2023,"launches":223,"catalogedObjects":28320,"debrisObjects":19020,"mitigationCompliance":66},
+  {"year":2024,"launches":259,"catalogedObjects":31250,"debrisObjects":20310,"mitigationCompliance":68},
+  {"year":2025,"launches":286,"catalogedObjects":34600,"debrisObjects":21750,"mitigationCompliance":70}
+]

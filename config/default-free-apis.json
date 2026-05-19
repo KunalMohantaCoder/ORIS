@@ -1,0 +1,59 @@
+{
+  "[ORBITAL DATA APIs]": [
+    {
+      "name": "CelesTrak Active Satellites GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=active&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "active",
+      "limit": 650,
+      "free": true
+    },
+    {
+      "name": "CelesTrak GEO GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=geo&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "active",
+      "limit": 260,
+      "free": true
+    },
+    {
+      "name": "CelesTrak Visible Objects GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=visual&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "mixed",
+      "limit": 260,
+      "free": true
+    }
+  ],
+  "[SPACE DEBRIS APIs]": [
+    {
+      "name": "CelesTrak Fengyun-1C Debris GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=fengyun-1c-debris&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "debris",
+      "limit": 260,
+      "free": true
+    },
+    {
+      "name": "CelesTrak Iridium 33 Debris GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=iridium-33-debris&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "debris",
+      "limit": 180,
+      "free": true
+    }
+  ],
+  "[SATELLITE TRACKING APIs]": [
+    {
+      "name": "CelesTrak GPS Operational GP",
+      "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=gps-ops&FORMAT=json",
+      "type": "celestrak-gp",
+      "category": "active",
+      "limit": 80,
+      "free": true
+    }
+  ],
+  "[EARTH / SPACE VISUALIZATION APIs]": [],
+  "[PHYSICS / EDUCATIONAL DATA APIs]": [],
+  "[SURVEY / ANALYTICS APIs]": []
+}
